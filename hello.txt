@@ -8,3 +8,6 @@ Hello Git!
 Hello Git!
 
 hot-fix update 6523154656651651464121
+
+分支冲突：
+hot-fix test
